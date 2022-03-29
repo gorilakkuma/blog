@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hoge"
+title:  "hogefuga"
 date:   2022-03-29 19:42:28 +0900
 categories: jekyll update
 ---
