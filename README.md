@@ -40,3 +40,7 @@ gem install bundler wdm
 # cannot load such file -- webrick
 gem isntall bundler webrick
 bundle add webrick 
+
+bundle exec jekyll build
+
+
